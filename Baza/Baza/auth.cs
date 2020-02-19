@@ -14,7 +14,7 @@ namespace Baza
 {
     public partial class auth : Form
     {
-        
+        //conection string c#
         public auth()
         {
             InitializeComponent();
