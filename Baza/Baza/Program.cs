@@ -16,7 +16,7 @@ namespace Baza
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            //Application.Run(new autorization());
+            Application.Run(new auth());
         }
     }
 }
